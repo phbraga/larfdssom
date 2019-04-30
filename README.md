@@ -1,5 +1,21 @@
 # Original LARFDSSOM
 
+### Cite
+Please cite the following paper if you use this code in your own work:
+
+```bibtex
+@article{bassani2015dimension,
+  title   = {{Dimension Selective Self-Organizing Maps With Time-Varying Structure for Subspace and Projected Clustering}},
+  author  = {Bassani, Hansenclever F. and Araujo, Aluizio F. R.},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  month   = {mar},
+  number  = {3},
+  pages   = {458--471},
+  volume  = {26},
+  year    = {2015}
+}
+```
+
 ### Requirements:
 
 1. You must have a file containing all the paths to the datasets you want to use. You can follow [this](https://github.com/hfbassani/pbml/blob/master/phmb4/Parameters/inputPathsReal) example
