@@ -1,6 +1,7 @@
 # Original LARFDSSOM
 
 ### Cite
+
 Please cite the following paper if you use this code in your own work:
 
 ```bibtex
